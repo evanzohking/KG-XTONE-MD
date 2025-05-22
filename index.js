@@ -1,8 +1,8 @@
 /**
  * KG-XTONE-MD - A WhatsApp Remasterd Bot
- * Copyright (c) 2025 Professor KGEvans
+ * Copyright (c) 2025 KGEvans
  * 
- * This program is free software: you can redistribute it and/or modify
+ * This program is not free software: you can redistribute it and/or modify
  * it under the terms of the MIT License.
  * 
  * Credits:
