@@ -16,7 +16,7 @@
 <p align="center">
     <strong>1. FORK REPOSITORY</strong>
   <br>
-    <a href="https://github.com/evanzoking/KG-XTONE-MD/fork" target="_blank">
+    <a href="https://github.com/evanzohking/KG-XTONE-MD/fork" target="_blank">
         <img alt="Fork Repo" src="https://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=scan&logoColor=purple&labelColor=yellow&color=yellow"/>
     </a>
 </p>
