@@ -24,7 +24,7 @@
 <p align="center">
     <strong>2. SESSION ID & DEPLOYMENTS</strong>
     <br>
-    <a href="https://KG-XTONE-MDbot.vercel.app/" target="_blank">
+    <a href="https://kg-xtone-md.vercel.app/" target="_blank">
         <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Go-100000?style=for-the-badge&logo=scan&logoColor=red&labelColor=blue&color=blue"/>
     </a>
 </p>
