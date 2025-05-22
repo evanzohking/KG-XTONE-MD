@@ -1,1 +1,2 @@
 # KG-XTONE-MD
+https://files.catbox.moe/e96rq7.jpg
