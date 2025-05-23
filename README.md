@@ -24,10 +24,11 @@
 <p align="center">
     <strong>2. SESSION ID & DEPLOYMENTS</strong>
     <br>
-    <a href="https://kg-xtone-md.vercel.app/" target="_blank">
-        <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Go-100000?style=for-the-badge&logo=scan&logoColor=red&labelColor=blue&color=blue"/>
-    </a>
-</p>
+    <a 
+    ## ɢᴇᴛ ᴘᴀɪʀɪɴɢ ᴄᴏᴅᴇ
+  <p align="center">  
+<a href='https://popkidsessiioons.onrender.com' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=blue'/></a>  
+</p>  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MADE+BY+KGEvans;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
