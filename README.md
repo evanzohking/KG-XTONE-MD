@@ -31,7 +31,7 @@
     <a 
     ## ɢᴇᴛ ᴘᴀɪʀɪɴɢ ᴄᴏᴅᴇ
   <p align="center">  
-<a href='https://popkidsessiioons.onrender.com' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=blue'/></a>  
+<a href='https://kgevans-session-id-generator.onrender.com' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=blue'/></a>  
 </p>  
 
 <p align="center">
@@ -91,5 +91,5 @@
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/254791002497"><img src="https://img.shields.io/badge/WhatsApp Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/254791002497"><img src="https://img.shields.io/badge/Contact Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a 
