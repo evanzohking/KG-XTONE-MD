@@ -49,3 +49,13 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{KG-XTONE-MD}/count.svg" alt="evanzoking:: Visitor's Count" /></p>
 
 -------
+
+## 👻 Dᴇᴘʟᴏʏ 𝕏Ե®em£~Ե𝖊𝖈𝖍_𝕏 👻
+
+> Deploy on Heroku
+
+
+
+<p align="center">  
+<a href='https://dashboard.heroku.com/new?template=https://github.com/evanzohking/KG-XTONE-MD/tree/main' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=lightblue'/></a>  
+</p>
