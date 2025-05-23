@@ -1,0 +1,87 @@
+{
+  "name": "Bellah-Xmd",
+  "version": "2.0.0",
+  "description": "WhatsApp bot",
+  "logo": "https://i.imgur.com/yZN5Ynv.jpeg",
+  "keywords": ["whatsapp", "bot", "md", "multi-device"],
+  "repository": "https://github.com/xxx/xxx",
+  "stack": "container",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "env": {
+    "SESSION_ID": {
+      "description": "Enter your session id",
+      "value": "",
+      "required": false
+},
+  "BOT_NAME": {
+      "description": "Enter bot name of your choice here",
+      "value": "VolTah Xmd",
+      "required": false
+    },
+  "OWNER_NUMBER": {
+      "description": "Enter your whatsapp number here",
+      "value": "254104245659",
+      "required": true
+    },
+  "PACK_NAME": {
+      "description": "Enter your sticker pack name",
+      "value": "VolTahXmd",
+      "required": false
+    },
+  "AUTOSW_VIEW": {
+      "description": "Type true if you want your bot to view status updates or else type false",
+      "value": "",
+      "required": true
+    },
+  "HEROKU_API": {
+      "description": "Put a Heroku api key here, will be required to update vars in your Dm",
+      "required": true
+    },
+  
+  "MODE": {
+      "description": "Type true if you want bot status mode to be public if else type false",
+      "value": "true",
+      "required": false
+    },
+  "ANTILINK_GC": {
+      "description": "set true if you want bot to delete gc links or else set false",
+      "value": "true",
+      "required": false
+    },
+  "BOT_PREFIX": {
+      "description": "Enter bot prefix of your choice if else leave blank for multiprefixes",
+      "value": ".",
+      "required": false
+    },
+  "AUTO_TYPING": {
+      "description": "type true/false or leave blank",
+      "value": ".",
+      "required": false
+    },
+    "AUTO_RECORDING": {
+      "description": "type true/false or leave blank for bot presence",
+      "value": "recording",
+      "required": false
+    }
+    },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+}
+
+    
+    
+    
