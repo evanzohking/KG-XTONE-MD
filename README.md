@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&duration=4500&pause=1000&color=008000&center=true&vCenter=true&width=815&height=60&lines=🦋+▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭+🐇" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=40&duration=4500&pause=1000&color=008000&center=true&vCenter=true&width=815&height=60&lines=🦋+▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭+🐇" alt="Typing SVG" />
   </a>
 </p>
 
