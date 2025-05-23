@@ -67,7 +67,7 @@
 ### ❤️ Create Heroku
 <p align="center">
   <a href="https://signup.heroku.com/">
-    <img src="https://img.shields.io/badge/CREATE ACCOUNT NOW-red?style=for-the-badge&logo=ferrari&logoColor=white" width="240" height="38.45" />
+    <img src="https://img.shields.io/badge/CREATE ACCOUNT NOW-blue?style=for-the-badge&logo=ferrari&logoColor=red" width="240" height="38.45" />
   </a>
 </p>
 
