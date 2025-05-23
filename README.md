@@ -36,19 +36,19 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=40&pause=1000&color=008000&center=true&vCenter=true&width=815&height=60&lines=🦋+▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭+🐇" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=50&pause=1000&duration=1000&color=008000&center=true&vCenter=true&width=815&height=60&lines=🦋+▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭+🐇" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=FF0000&center=true&width=1000&height=100&lines=ULTIMATE+WHATSAPP+BOT;MADE+BY+KGEvans;A+MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE+AND+RELIABLE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000& duration=1000&color=FF0000&center=true&width=1000&height=100&lines=ULTIMATE+WHATSAPP+BOT;MADE+BY+KGEvans;A+MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE+AND+RELIABLE" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=KGEVANS+THE+COMMANDER;MY+BOSS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000& duration=1000&color=000000&center=true&width=900&height=100&lines=KGEVANS+THE+COMMANDER;MY+BOSS" alt="Typing SVG" />
   </a>
 </p> 
   
