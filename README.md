@@ -87,6 +87,8 @@
   </a>
 </p>
 
+-------
+
 ## ```Connect With Me```
 <p align="center">
 <a href="https://wa.me/254791002497"><img src="https://img.shields.io/badge/WhatsApp Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
