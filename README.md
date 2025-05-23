@@ -81,6 +81,7 @@
 <a href='https://dashboard.heroku.com/new?template=https://github.com/evanzohking/KG-XTONE-MD/tree/main' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=lightblue'/></a>  
 </p>
 
+<p align="center">
 <a href="https://evanzohking.site/Panel_files">
     <img title="GET PANEL FILES" src="https://img.shields.io/badge/📁_GET_PANEL_FILES-000000?style=for-the-badge&logo=files&logoColor=purple&color=FFA500" width="260" height="50"/>
   </a>
