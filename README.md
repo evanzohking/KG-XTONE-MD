@@ -86,3 +86,8 @@
     <img title="GET PANEL FILES" src="https://img.shields.io/badge/📁_GET_PANEL_FILES-000000?style=for-the-badge&logo=files&logoColor=purple&color=FFA500" width="260" height="50"/>
   </a>
 </p>
+
+## ```Connect With Me```
+<p align="center">
+<a href="https://wa.me/254791002497_"><img src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a 
