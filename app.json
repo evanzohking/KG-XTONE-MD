@@ -1,5 +1,5 @@
 {
-  "name": "Kg-Xtone-Md",
+  "name": "KG-XTONE-MD",
   "version": "2.0.0",
   "description": "WhatsApp bot",
   "logo": "https://files.catbox.moe/e96rq7.jpg",
@@ -17,7 +17,7 @@
 },
   "BOT_NAME": {
       "description": "Enter bot name of your choice here",
-      "value": "Kg-Xtone-Md",
+      "value": "KG-XTONE-MD",
       "required": false
     },
   "OWNER_NUMBER": {
@@ -27,7 +27,7 @@
     },
   "PACK_NAME": {
       "description": "Enter your sticker pack name",
-      "value": "Kg-Xtone-Md",
+      "value": "KG-XTONE-MD",
       "required": false
     },
   "AUTOSW_VIEW": {
@@ -74,10 +74,10 @@
       "url": "https://github.com/evanzohking/heroku-buildpack-imagemagick.git"
     },
     {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      "url": "https://github.com/evanzoking/heroku-buildpack-ffmpeg-latest"
     },
     {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+      "url": "https://github.com/evanzoking/heroku-buildpack-webp-binaries.git"
     }
   ]
 }
