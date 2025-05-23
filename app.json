@@ -1,10 +1,10 @@
 {
-  "name": "Bellah-Xmd",
+  "name": "Kg-Xtone-Md",
   "version": "2.0.0",
   "description": "WhatsApp bot",
   "logo": "https://i.imgur.com/yZN5Ynv.jpeg",
   "keywords": ["whatsapp", "bot", "md", "multi-device"],
-  "repository": "https://github.com/xxx/xxx",
+  "repository": "https://github.com/evanzohking/KG-XTONE-MD",
   "stack": "container",
   "scripts": {
     "start": "node index.js"
@@ -17,17 +17,17 @@
 },
   "BOT_NAME": {
       "description": "Enter bot name of your choice here",
-      "value": "VolTah Xmd",
+      "value": "Kg-Xtone-Md",
       "required": false
     },
   "OWNER_NUMBER": {
       "description": "Enter your whatsapp number here",
-      "value": "254104245659",
+      "value": "254791002497",
       "required": true
     },
   "PACK_NAME": {
       "description": "Enter your sticker pack name",
-      "value": "VolTahXmd",
+      "value": "Kg-Xtone-Md",
       "required": false
     },
   "AUTOSW_VIEW": {
@@ -71,7 +71,7 @@
       "url": "heroku/nodejs"
     },
     {
-      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+      "url": "https://github.com/evanzohking/heroku-buildpack-imagemagick.git"
     },
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
