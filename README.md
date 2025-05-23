@@ -14,7 +14,7 @@
 <p/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+The+KG+XTONE+MD+VERSION;🔥+Most+Powerful+WhatsApp+Bot+On+Earth🌎;💻+Made+by+KG+Evans;🚀+Man+Of+Advanced+Technology;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+The+KG+XTONE+MD+VERSION;🔥+Most+Powerful+WhatsApp+Bot+On+Earth🌎;💻+Made+by+KG+Evans;🚀+Man+Of+Advanced+Technology;💥+Fast+⚡+Secure+🔒+And+Reliable+✅" alt="Typing Animation">
 </h1>
 
 <p align="center">
@@ -50,7 +50,7 @@
 
 -------
 
-## 👻 Dᴇᴘʟᴏʏ KG-XTONE-MD 👻
+## 👻 DEPLOY KG-XTONE-MD👻
 
 > Deploy on Heroku
 
