@@ -66,11 +66,11 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _https://www.youtube.com/@BTSMODZ
+║❒ *Ytube:* _https://youtube.com/@evansomoit3614?si=jQh9_N3Et4e2vgzF
 ║❒ *Owner:* https://wa.me/254791002497_
 ║❒ *Repo:* _https://github.com/evanzoking_
-║❒ *WaGroup:* _https://chat.whatsapp.com/C3GFThC0tIpGaJY9DFUeCK
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VahusSh0QeaoFzHJCk2x
+║❒ *WaGroup:* _https://chat.whatsapp.com/HAsH0QnpBW9FBtbfyrh1l7
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VbB6eyM7YSd78z6rDa3X
 ║❒ *Plugins:* _https://github.com/evanzoking
 ╚════════════════════════╝
 _____________________________________
