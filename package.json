@@ -2,7 +2,7 @@
     "name": "scarlet-v7-Bug",
     "version": "7.0.0",
     "description": "up",
-    "main": "start.js",
+    "main": "index.js",
     "type": "commonjs",
     "scripts": {
         "start": "node ./start/index.js"
