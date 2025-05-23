@@ -13,6 +13,10 @@
 <a href="https://github.com/evanzohking"><img title="Author" src="https://img.shields.io/badge/KG XTONE MD-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 
+h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+KG+XTONE+MD+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot+On+Earth🌎;💻+Made+by+KG+Evans;🚀+The+Man+Of+Advanced+Technology;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
+</h1>
+
 <p align="center">
     <strong>1. FORK REPOSITORY</strong>
   <br>
