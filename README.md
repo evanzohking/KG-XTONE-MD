@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/evanzohking/KG-XTONE-MD">
-    <img alt="KG-XTONE-MD docs" height="400" src="https://files.catbox.moe/e96rq7.jpg">
+    <img alt="KG-XTONE-MD docs" height="300" src="https://files.catbox.moe/e96rq7.jpg">
   </a>
 </p>
     
