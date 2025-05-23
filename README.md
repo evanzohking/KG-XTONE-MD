@@ -35,9 +35,22 @@
 </p>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MADE+BY+KGEvans;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=40&pause=1000&color=008000&center=true&vCenter=true&width=815&height=60&lines=🦋+▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭+🐇" alt="Typing SVG" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=900&color=FF0000&center=true&width=1100&height=150&lines=POPKID-+XTECH+BOT" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=ULTIMATE+WHATSAPP+BOT;MADE+BY+KGEvans;A+MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE+AND+RELIABLE" alt="Typing SVG" />
+  </a>
+  
 <div align="center">
   <a href="https://github.com/evanzohking/KG-XTONE-MD/followers"><img title="Followers" src="https://img.shields.io/github/followers/evanzohking?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://github.com/evanzohking/KG-XTONE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/evanzohking/KG-XTONE-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
