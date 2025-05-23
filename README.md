@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=900&color=FF0000&center=true&width=1100&height=150&lines=ULTIMATE+WHATSAPP+BOT;MADE+BY+KGEvans;A+MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE+AND+RELIABLE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=FF0000&center=true&width=1000&height=100&lines=ULTIMATE+WHATSAPP+BOT;MADE+BY+KGEvans;A+MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE+AND+RELIABLE" alt="Typing SVG" />
   </a>
 </p>
 
