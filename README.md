@@ -42,14 +42,15 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=900&color=FF0000&center=true&width=1100&height=150&lines=POPKID-+XTECH+BOT" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=900&color=FF0000&center=true&width=1100&height=150&lines=ULTIMATE+WHATSAPP+BOT;MADE+BY+KGEvans;A+MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE+AND+RELIABLE" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=ULTIMATE+WHATSAPP+BOT;MADE+BY+KGEvans;A+MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE+AND+RELIABLE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=KGEVANS+THE+COMMANDER;MY+BOSS" alt="Typing SVG" />
   </a>
+</p> 
   
 <div align="center">
   <a href="https://github.com/evanzohking/KG-XTONE-MD/followers"><img title="Followers" src="https://img.shields.io/github/followers/evanzohking?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
