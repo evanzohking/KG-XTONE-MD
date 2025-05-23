@@ -14,7 +14,7 @@
 <p/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4500&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+The+KG+XTONE+MD+VERSION;🔥+Most+Powerful+WhatsApp+Bot+On+Earth🌎;💻+Made+by+KG+Evans;🚀+Man+Of+Advanced+Technology;💥+Fast+⚡+Secure+🔒+And+Reliable+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4500&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+The+KG+XTONE+MD+VERSION;🔥+Most+Powerful+WhatsApp+Bot+On+Earth🌎;💻+Made+by+KGEvans;🚀+Man+Of+Advanced+Technology;💥+Fast+⚡+Secure+🔒+And+Reliable+✅" alt="Typing Animation">
 </h1>
 
 <p align="center">
@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&duration=4500&pause=1000&color=FF0000&center=true&width=1000&height=100&lines=ULTIMATE+WHATSAPP+BOT;MADE+BY+KGEvans;A+MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE+AND+RELIABLE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&duration=4500&pause=1000&color=FF0000&center=true&width=1000&height=100&lines=ULTIMATE+WHATSAPP+BOT;MADE+BY+KGEVANS;A+MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE+AND+RELIABLE" alt="Typing SVG" />
   </a>
 </p>
 
