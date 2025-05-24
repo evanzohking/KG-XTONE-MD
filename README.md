@@ -1,4 +1,4 @@
-# --------
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center"> KG-XTONE-MD </h1>
 
 <p align="center">
