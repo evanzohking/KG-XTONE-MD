@@ -31,7 +31,7 @@
     <a 
     ## ɢᴇᴛ ᴘᴀɪʀɪɴɢ ᴄᴏᴅᴇ
   <p align="center">  
-<a href='https://kg-xtone-pair.onrender.com' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=blue'/></a>  
+<a href='https://kg-xtone-pair-6nzw.onrender.com' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=blue'/></a>  
 </p>  
 
 <p align="center">
